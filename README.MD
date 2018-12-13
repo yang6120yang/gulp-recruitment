@@ -16,13 +16,6 @@
 语法检测： gulp eslint
 压缩图片： gulp images
 ```
-
-## [项目地址](https://github.com/vincentSea/gulp-cli)
-* 如对你有帮助，希望给个Star ！哈哈哈！！
-```
-git clone https://github.com/vincentSea/gulp-cli.git
-```
-
 ## 项目目录
 ```
 ├── README.md         # 项目说明
@@ -72,7 +65,7 @@ git clone https://github.com/vincentSea/gulp-cli.git
 ]
 ```
 
-## 使用Eslint 
+## 使用Eslint
 config/index.js文件
 ```
 useEslint: false // 是否启用eslint
@@ -85,14 +78,5 @@ config/index.js文件
 ```
 useWebpack: false // 是否启用webpack
 ```
-
-## 小生后话
-* 此前端自动化构建框架，只是为了简单方便
-
-* 可以随便根据自己的要求去进行修改配置
-
-* 如有设计不合理地方，可以提出，我乃虚心听取
-
-* [项目地址](https://github.com/vincentSea/gulp-cli) 如对你有帮助，希望给个Star ！哈哈哈！！
 
 
